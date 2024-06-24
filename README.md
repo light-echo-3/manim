@@ -1,3 +1,6 @@
+
+[B站视频：【CSAPP-深入理解计算机系统】-使用该项目制作](https://www.bilibili.com/video/BV1Xr4y1t7Jt/?spm_id_from=333.788&vd_source=f2b2071246df766236feafe8fbd9174f)
+
 <p align="center">
     <a href="https://github.com/3b1b/manim">
         <img src="https://raw.githubusercontent.com/3b1b/manim/master/logo/cropped.png">
